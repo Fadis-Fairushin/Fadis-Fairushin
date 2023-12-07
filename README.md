@@ -58,6 +58,6 @@ My telegram profile: https://t.me/my_life_is_too_dark
 
 ![](https://komarev.com/ghpvc/?username=Fadis-Fairushin&label=How+many+people+have+viewed+my+github+profile&color=blueviolet&style=for-the-badge)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
