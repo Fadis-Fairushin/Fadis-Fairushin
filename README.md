@@ -9,6 +9,7 @@
 + Fullstack
 + Creating chat bots
 + Automation and development of bots for games
++ Software programming
 
 ### I work with languages ​​such as:
 + HTML/CSS/JS <-> NodeJS
