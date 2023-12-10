@@ -5,6 +5,12 @@
 </h1>
 <h3 align="center">An empty-headed and clumsy programmer<h3>
 
+### I develop everything on a laptop with Windows OS
++ Laptop: Lenovo ideapad 330-15IKB
++ 6 GB RAM;
++ 1 TB hard drive;
++ The discrete video card is dead, it sits on the integrated Intel(R) HD Graphics 620.
+
 ### I am studying programming in areas such as:
 + Fullstack
 + Creating chat bots
@@ -58,6 +64,11 @@ My telegram profile: https://t.me/my_life_is_too_dark
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadis-Fairushin&show_icons=true&theme=transparent&hide_border=true)
 
 ![](https://komarev.com/ghpvc/?username=Fadis-Fairushin&label=How+many+people+have+viewed+my+github+profile&color=blueviolet&style=for-the-badge)
+<p>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTailogs&count_bg=%236B3DC8&title_bg=%23000000&icon=github.svg&icon_color=%236A00FF&title=Tailogs&edge_flat=true"/>
+  </a>
+</p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
