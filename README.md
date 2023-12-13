@@ -19,7 +19,6 @@
 
 ### I work with languages ​​such as:
 + HTML/CSS/JS <-> NodeJS
-+ Go
 + C#
 + Python
 + AutoHotkey
