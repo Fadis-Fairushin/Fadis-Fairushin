@@ -1,23 +1,23 @@
 <h1 align="center">
-  Hi there, I'm
-    <a href="" target="_blank">Fadis</a>
+  Привет, я 
+    <a href="" target="_blank">Файрушин Фадис | Тайлогс</a>
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">An empty-headed and clumsy programmer<h3>
+<h3 align="center">Пустоголовый и неуклюжий программист<h3>
 
-### I develop everything on a laptop with Windows OS
-+ Laptop: Lenovo ideapad 330-15IKB
-+ 6 GB RAM;
-+ 1 TB hard drive;
-+ The discrete video card is dead, it sits on the integrated Intel(R) HD Graphics 620.
+### Я разрабатываю все на ноутбуке с операционной системой Windows
++ Ноутбук: Lenovo ideapad 330-15IKB
++ 6 ГБ оперативной памяти;
++ Жесткий диск 1 ТБ;
++ Дискретная видеокарта мертва, так что работаю на интегрированной Intel(R) HD Graphics 620.
 
-### I am studying programming in areas such as:
-+ Fullstack
-+ Creating chat bots
-+ Automation and development of bots for games
-+ Software programming
-
-### I work with languages ​​such as:
+### Я изучаю программирование в таких областях, как:
++ Фулстек
++ Создание чат-ботов
++ Автоматизация и разработка ботов для игр
++ Программирование ПО
++ 
+### Я работаю с такими языками, как:
 + HTML/CSS/JS <-> NodeJS
 + C#
 + Python
@@ -30,26 +30,22 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=As+long+as+I+think%2C+I+exist.+The+rest+is+less+important)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Я+мыслю,+следовательно+я+существую)](https://git.io/typing-svg)
 
-I'm learning a little Linux, but the main system is Windows
+Я немного изучаю Linux, но основная система - Windows
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-In the future, when I learn everything above, I will learn React, Vue, TypeScript and PowerShell.
-I also want to become proficient in Bash and Batch.
+В будущем, когда я изучу все вышеперечисленное, то буду изучать React, Vue, TypeScript.
+Также я хочу работать относительно нормально в Bash и Batch, и PowerShell.
 
+В последние годы я каждый день устаю и ленюсь, поэтому я принял решение медленно двигаться к переменам. Возможно, все изменится в будущем, и я очень хочу в это верить. 
 
-
-In recent years I have been tired and lazy every day, so I made a decision a week ago that I would slowly crawl towards change. Perhaps everything will change in the future and I really want to believe in it. And yes, forgive me for my English, because I don’t know it, but I’m using a translator. I'm from Russia myself...
-
-
-
-My telegram channel: https://t.me/fadis_org
+Мой канал в телеграм: https://t.me/fadis_org
 <br>
-My telegram profile: https://t.me/my_life_is_too_dark
+Мой профиль в телеграм: https://t.me/my_life_is_too_dark
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
@@ -61,7 +57,7 @@ My telegram profile: https://t.me/my_life_is_too_dark
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fadis-Fairushin&show_icons=true&theme=transparent&hide_border=true)
 
-![](https://komarev.com/ghpvc/?username=Fadis-Fairushin&label=How+many+people+have+viewed+my+github+profile&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Fadis-Fairushin&label=Сколько+людей+просмотрело+мой+github+профиль&color=blueviolet&style=for-the-badge)
 <p>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTailogs&count_bg=%236B3DC8&title_bg=%23000000&icon=github.svg&icon_color=%236A00FF&title=Tailogs&edge_flat=true"/>
