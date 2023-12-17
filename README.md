@@ -16,7 +16,7 @@
 + Создание чат-ботов
 + Автоматизация и разработка ботов для игр
 + Программирование ПО
-+ 
+
 ### Я работаю с такими языками, как:
 + HTML/CSS/JS <-> NodeJS
 + C#
@@ -48,8 +48,6 @@
 Мой профиль в телеграм: https://t.me/my_life_is_too_dark
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fadis-Fairushin&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
